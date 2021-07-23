@@ -4,6 +4,10 @@ Trabalho da disciplina Compiladores 2021.1
 
 Data de entrega 23/07/21
 
+Nome do Aluno: Arthur de Lima Nakao
+
+Matrícula: 118031015
+
 ## Introdução 
 
 A gramática 
